@@ -11,8 +11,8 @@ rm -f /usr/bin/jie && wget -q -O /usr/bin/jie "https://raw.githubusercontent.com
 
 # HOW TO USE
 
-### 1. JUST UPLOAD YOUR SOURCE SCRIPT TO ANY PATH (DEFAULT : /root/samenc)
-### 2. THEN TYPE 'enc' TO OPEN MENU
+### 1. JUST UPLOAD YOUR SOURCE SCRIPT TO ANY PATH (DEFAULT : /root/encfile)
+### 2. THEN TYPE 'jie' TO OPEN MENU
 
 ```
 jie
