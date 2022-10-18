@@ -1,12 +1,12 @@
 # AUTO ENCRYPT SHELL FILE (.sh)
 
 ```
-wget -q -O /usr/bin/enc "https://raw.githubusercontent.com/trickexpert/encrypt/main/auto.sh" && chmod +x /usr/bin/enc && apt install make && apt install gcc && apt install shc
+wget -q -O /usr/bin/jie "https://raw.githubusercontent.com/trickexpert/encrypt/main/auto.sh" && chmod +x /usr/bin/jie && apt install make && apt install gcc && apt install shc
 ```
 
 ## UPDATE SCRIPT
 ```
-rm -f /usr/bin/enc && wget -q -O /usr/bin/enc "https://raw.githubusercontent.com/trickexpert/encrypt/main/auto.sh" && chmod +x /usr/bin/enc
+rm -f /usr/bin/jie && wget -q -O /usr/bin/jie "https://raw.githubusercontent.com/trickexpert/encrypt/main/auto.sh" && chmod +x /usr/bin/jie
 ```
 
 # HOW TO USE
@@ -15,5 +15,5 @@ rm -f /usr/bin/enc && wget -q -O /usr/bin/enc "https://raw.githubusercontent.com
 ### 2. THEN TYPE 'enc' TO OPEN MENU
 
 ```
-enc
+jie
 ```
